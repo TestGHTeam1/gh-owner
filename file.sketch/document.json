@@ -1,6 +1,8 @@
 {
 "_class":"document",
 "do_objectID":"59C7F2C0-5A17-46A6-8E17-7ACC54A748C1",
+"agreedToFontEmbedding":false,
+"autoEmbedFonts":false,
 "colorSpace":0,
 "currentPageIndex":0,
 "assets":{
@@ -17,7 +19,9 @@
 "colors":[],
 "gradients":[]
 },
+"fontReferences":[],
 "foreignLayerStyles":[],
+"foreignSwatches":[],
 "foreignSymbols":[],
 "foreignTextStyles":[],
 "layerStyles":{
@@ -38,5 +42,9 @@
 "_ref_class":"MSImmutablePage",
 "_ref":"pages/8387E4DF-2662-4447-AD77-E102BB20D953"
 }
-]
+],
+"sharedSwatches":{
+"_class":"swatchContainer",
+"objects":[]
+}
 }

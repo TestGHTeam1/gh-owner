@@ -8,7 +8,6 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"maintainScrollPosition":false,
 "name":"Page 1",
 "nameIsFixed":false,
 "resizingConstraint":63,
@@ -88,7 +87,6 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"maintainScrollPosition":false,
 "name":"Artboard",
 "nameIsFixed":false,
 "resizingConstraint":63,
@@ -168,7 +166,6 @@
 "isLocked":false,
 "isVisible":true,
 "layerListExpandedType":0,
-"maintainScrollPosition":false,
 "name":"Oval",
 "nameIsFixed":false,
 "resizingConstraint":63,
@@ -187,8 +184,8 @@
 "constrainProportions":false,
 "height":124,
 "width":251,
-"x":144,
-"y":137
+"x":125,
+"y":145
 },
 "clippingMaskMode":0,
 "hasClippingMask":false,
@@ -223,9 +220,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.592,
-"green":0.592,
-"red":0.592
+"blue":0.8939085144927537,
+"green":0.4195429951926204,
+"red":0.3300545976624636
 },
 "contextSettings":{
 "_class":"graphicsContextSettings",
@@ -264,7 +261,7 @@
 ]
 },
 "position":0,
-"thickness":1
+"thickness":3
 }
 ],
 "colorControls":{
@@ -310,9 +307,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.06747787302476222,
-"green":0.1281419836956522,
-"red":0.01179843874270943
+"blue":0.9126754981884058,
+"green":0.767102549808267,
+"red":0.3561660480735242
 }
 },
 {
@@ -321,9 +318,9 @@
 "color":{
 "_class":"color",
 "alpha":1,
-"blue":0.5036383893133773,
-"green":0.8992017663043478,
-"red":0.2833650688098572
+"blue":0.3404999663259398,
+"green":0.9504359148550725,
+"red":0.000851190701184957
 }
 }
 ]
